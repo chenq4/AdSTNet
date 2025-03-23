@@ -1,4 +1,4 @@
-name: unext
+name: AdSTNet
 channels:
   - defaults
 dependencies:
